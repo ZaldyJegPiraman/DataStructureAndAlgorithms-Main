@@ -1,0 +1,14 @@
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\bin\Debug\net6.0\DataStructureAndAlgorithms.exe
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\bin\Debug\net6.0\DataStructureAndAlgorithms.deps.json
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\bin\Debug\net6.0\DataStructureAndAlgorithms.runtimeconfig.json
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\bin\Debug\net6.0\DataStructureAndAlgorithms.dll
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\bin\Debug\net6.0\DataStructureAndAlgorithms.pdb
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\DataStructureAndAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\DataStructureAndAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\DataStructureAndAlgorithms.AssemblyInfo.cs
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\DataStructureAndAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\DataStructureAndAlgorithms.dll
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\refint\DataStructureAndAlgorithms.dll
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\DataStructureAndAlgorithms.pdb
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\DataStructureAndAlgorithms.genruntimeconfig.cache
+C:\Users\Zaldy\source\repos\DataStructureAndAlgorithms\obj\Debug\net6.0\ref\DataStructureAndAlgorithms.dll

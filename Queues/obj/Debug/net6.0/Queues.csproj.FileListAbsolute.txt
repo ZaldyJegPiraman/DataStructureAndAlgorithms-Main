@@ -1,0 +1,14 @@
+C:\Users\Zaldy\source\repos\Queues\bin\Debug\net6.0\Queues.exe
+C:\Users\Zaldy\source\repos\Queues\bin\Debug\net6.0\Queues.deps.json
+C:\Users\Zaldy\source\repos\Queues\bin\Debug\net6.0\Queues.runtimeconfig.json
+C:\Users\Zaldy\source\repos\Queues\bin\Debug\net6.0\Queues.dll
+C:\Users\Zaldy\source\repos\Queues\bin\Debug\net6.0\Queues.pdb
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\Queues.AssemblyInfoInputs.cache
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\Queues.AssemblyInfo.cs
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\Queues.dll
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\refint\Queues.dll
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\Queues.pdb
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\Queues.genruntimeconfig.cache
+C:\Users\Zaldy\source\repos\Queues\obj\Debug\net6.0\ref\Queues.dll

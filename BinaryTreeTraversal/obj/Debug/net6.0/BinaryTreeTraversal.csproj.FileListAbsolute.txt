@@ -1,0 +1,14 @@
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\bin\Debug\net6.0\BinaryTreeTraversal.exe
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\bin\Debug\net6.0\BinaryTreeTraversal.deps.json
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\bin\Debug\net6.0\BinaryTreeTraversal.runtimeconfig.json
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\bin\Debug\net6.0\BinaryTreeTraversal.dll
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\bin\Debug\net6.0\BinaryTreeTraversal.pdb
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\BinaryTreeTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\BinaryTreeTraversal.AssemblyInfoInputs.cache
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\BinaryTreeTraversal.AssemblyInfo.cs
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\BinaryTreeTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\BinaryTreeTraversal.dll
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\refint\BinaryTreeTraversal.dll
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\BinaryTreeTraversal.pdb
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\BinaryTreeTraversal.genruntimeconfig.cache
+C:\Users\Zaldy\source\repos\BinaryTreeTraversal\obj\Debug\net6.0\ref\BinaryTreeTraversal.dll
